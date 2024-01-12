@@ -8,6 +8,8 @@
 
 The surge in online shopping necessitates sophisticated eCommerce platforms that prioritize user experience. A comprehensive, user-friendly, and secure eCommerce solution is essential, offering efficient product search, detailed product views, dynamic cart management, and a seamless checkout process for both guests and logged in users. This is crucial for building and maintaining user trust and satisfaction in the midst of a competitive online marketplace.
 
+[Project Demo](https://drive.google.com/file/d/1cWB5kPEvjHfqBJy5GfGeGBa6LtZn-lSU/view?usp=sharing)
+
 **Project Features:**
 
 **1. Products View**: The product view offers a comprehensive overview of all items available on the eCommerce website.
@@ -87,7 +89,7 @@ Verify installation: ng --version
 
      
 
-  4. Extract the **ShopXperience.zip** and install db-scripts, frontend, backend accordingly as per the provided video "**How to run the code.mp4**" and run the browser with URL
+  4. Extract the **ShopXperience.zip** and install db-scripts, frontend, backend accordingly as per the provided video [How to run code](https://drive.google.com/file/d/1a2LjAokDrSaUpjhDL99WM3Sg8uTeRarF/view?usp=sharing)  and run the browser with URL
 
 ```
 URL: https://localhost:4200
